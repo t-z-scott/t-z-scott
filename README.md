@@ -7,13 +7,11 @@ A detail-oriented security engineer with a passion for learning and securing dig
 
 💬 Ask me about: supply chain security, risk management, and documentation / technical writing.
 
+📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/) or my [email](mailto:tayzscott@gmail.com)
+
 See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website, [t-z-scott.github.io](https://t-z-scott.github.io/).
 
 🌃 Fun Fact: I've been a Doctor Who fan since 2010. Patiently waiting on Series 15/Season 2 🙏
-
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/)
-- [Email](mailto:tayzscott@gmail.com)
 
 ## 👷 To-Build:
 - [ ] A password strength checker (in progress)
