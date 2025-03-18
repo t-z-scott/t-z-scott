@@ -21,4 +21,5 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website,
 
 ## Thinking of donating to me? DON'T!
 All proceeds below go to my local mutual aid networks. I research each organization before donating, and if possible, I match 100% of the donation.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J6XBSNB)
