@@ -14,7 +14,9 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website,
 🌃 Fun Fact: I've been a Doctor Who fan since 2010. Patiently waiting on Series 15/Season 2 🙏
 
 ## 👷 To-Build:
-- [ ] A password strength checker (in progress)
+- [x] A password strength checker
+- [ ] Python keylogger detector
+- [ ] Password vault
 - [ ] My security portfolio (for real this time)
 
 ## Thinking of donating to me? DON'T!
