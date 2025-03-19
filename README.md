@@ -15,7 +15,7 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website,
 
 ## 👷 To-Build:
 - [x] A password strength checker
-- [ ] Python keylogger detector
+- [ ] Python phishing email detector
 - [ ] Password vault
 - [ ] My security portfolio (for real this time)
 
