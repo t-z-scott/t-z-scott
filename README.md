@@ -1,5 +1,5 @@
 ## 🌠 About Me:
-A detail-oriented security engineer with a passion for learning and securing digital environments. I write security standards and lead projects.
+A detail-oriented security engineer with a passion for learning and securing digital environments. I write security standards, lead projects, and complete threat models.
 
 🏳️‍⚧️ Pronouns: **he/they**
 
