@@ -11,7 +11,7 @@ A detail-oriented security engineer with a passion for learning and securing dig
 
 See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website, [t-z-scott.github.io](https://t-z-scott.github.io/).
 
-🌃 Fun Fact: I've been a Doctor Who fan since 2010. Patiently waiting on Series 15/Season 2 🙏
+🌃 Fun Fact: I've been a Doctor Who fan since 2010. Patiently waiting on Series 16/Season 3 🙏
 
 ## 👷 To-Build:
 - [x] A password strength checker
