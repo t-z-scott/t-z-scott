@@ -7,7 +7,7 @@ A detail-oriented security engineer with a passion for learning and securing dig
 
 💬 Ask me about: supply chain security, risk management, and documentation / technical writing.
 
-📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/).
+📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/) or my [email](mailto:contact.taylorzs@gmail.com).
 
 See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website, [t-z-scott.github.io](https://t-z-scott.github.io/).
 
