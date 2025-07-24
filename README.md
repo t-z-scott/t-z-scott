@@ -9,7 +9,7 @@ A detail-oriented security engineer with a passion for learning and securing dig
 
 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/) or my [email](mailto:contact.taylorzs@gmail.com).
 
-See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website, [t-z-scott.github.io](https://t-z-scott.github.io/).
+See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website, [404 On The Floor](https://404onthefloor.com).
 
 🌃 Fun Fact: I've been a Doctor Who fan since 2010. Patiently waiting on Series 16/Season 3 🙏
 
@@ -31,6 +31,7 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website,
 - [ ] My security portfolio (for real this time)
 
 ## Thinking of donating to me? DON'T!
-All proceeds below go to my local mutual aid networks. I research each organization before donating, and if possible, I match 100% of the donation.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J6XBSNB)
+Here's some places that could put your money to good use:
+- www.aclu.org
+- www.thetrevorproject.org
+- mutualaiddisasterrelief.org
