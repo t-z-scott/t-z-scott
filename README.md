@@ -13,7 +13,7 @@ A detail-oriented security engineer with a passion for learning and securing dig
 
 See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website, [404 On The Floor](https://404onthefloor.com).
 
-🌃 Fun Fact: I've been a Doctor Who fan since 2010. Patiently waiting on Series 16/Season 3 🙏
+🌃 Fun Fact: I've been a Doctor Who fan since 2010. Patiently waiting on Series 16/Season 3 🙏🏾
 
 ## 🛠️ Tools & Tech
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali&logoColor=white)
@@ -36,4 +36,4 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website,
 Here's some places that could put your money to good use:
 - www.aclu.org
 - www.thetrevorproject.org
-- mutualaiddisasterrelief.org
+- [mutualaiddisasterrelief.org](https://mutualaiddisasterrelief.org/)
