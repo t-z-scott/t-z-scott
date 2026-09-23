@@ -30,7 +30,7 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) or my website,
 - [x] A password strength checker
 - [ ] Python phishing email detector
 - [ ] Password vault
-- [ ] My security portfolio (for real this time)
+- [x] My security portfolio (for real this time)
 
 ## Thinking of donating to me? DON'T!
 Here's some places that could put your money to good use:
