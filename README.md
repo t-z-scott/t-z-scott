@@ -9,7 +9,7 @@ A detail-oriented security engineer with a passion for learning and securing dig
 
 💬 Ask me about: supply chain security, risk management, and documentation / technical writing.
 
-📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/) or my [email](mailto:hello@404onthefloor.com).
+📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/taylor-z-scott/), my [email](mailto:hello@404onthefloor.com), or my [contact form](https://blog.404onthefloor.com/contact).
 
 See my hands-on work at [t-z-scott](https://github.com/t-z-scott) my blog, [404 On The Floor](https://blog.404onthefloor.com), or my [digital garden](https://garden.404onthefloor.com).
 
@@ -32,8 +32,7 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) my blog, [404 
 - [ ] Password vault
 - [x] My security portfolio (for real this time)
 
-## Thinking of donating to me? DON'T!
-Here's some places that could put your money to good use:
-- www.aclu.org
-- www.thetrevorproject.org
-- [mutualaiddisasterrelief.org](https://mutualaiddisasterrelief.org/)
+## Find my work valuable?
+Consider supporting me via my [Liberapay](https://liberapay.com/tz.scott/).
+<script src="https://liberapay.com/tz.scott/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/tz.scott/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
