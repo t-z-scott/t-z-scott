@@ -33,6 +33,7 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) my blog, [404 
 - [x] My security portfolio (for real this time)
 
 ## Find my work valuable?
-Consider supporting me via my [Liberapay](https://liberapay.com/tz.scott/) or on [GitHub](https://github.com/sponsors/t-z-scott),
+Consider supporting me via my [Liberapay](https://liberapay.com/tz.scott/) or on [GitHub](https://github.com/sponsors/t-z-scott).
 
 <noscript><a href="https://liberapay.com/tz.scott/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<iframe src="https://github.com/sponsors/t-z-scott/button" title="Sponsor t-z-scott" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
