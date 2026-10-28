@@ -34,5 +34,4 @@ See my hands-on work at [t-z-scott](https://github.com/t-z-scott) my blog, [404 
 
 ## Find my work valuable?
 Consider supporting me via my [Liberapay](https://liberapay.com/tz.scott/).
-<script src="https://liberapay.com/tz.scott/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/tz.scott/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
